@@ -1,0 +1,3 @@
+// Place your public_suffix_list.dat content here.
+// Download from: https://publicsuffix.org/list/public_suffix_list.dat
+// Then replace this file before building the wheel.
